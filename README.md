@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Adititiwari02/Adititiwari02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently in my pre final year of undergrad in BTech from IGDTUW. 
+- 🌱 I’m currently learning Web3 Technology 
+- 💻 I have worked with MERN Stack, AR-VR and Python
+- 🦄 Passionate about problem solving and competitive programming.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aditi-tiwari-69a587192/)
+- ⚡ Fun fact: I love solving different types of cubes.
+- My coding profile links: [Leetcode](https://leetcode.com/WTEF_adititiwari02/)  [Codechef](https://www.codechef.com/users/adititiwari_02)  [Codeforces](https://codeforces.com/profile/adititiwari02)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Aditi's github stats](https://github-readme-stats.vercel.app/api?username=Adititiwari02&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adititiwari02)](https://github.com/Adititiwari02/github-readme-stats)
+
