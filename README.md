@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently in my pre final year of undergrad in BTech from IGDTUW. 
+- 🔭 I’m currently a software engineer at Google
+- 📖 I did my undergrad in BTech, Information Technology from IGDTUW. 
 - 🌱 I’m currently learning Web3 Technology 
 - 💻 I have worked with MERN Stack, AR-VR and Python
 - 🦄 Passionate about problem solving and competitive programming.
